@@ -1,0 +1,6 @@
+projectKey=copilot_regenarate
+serverUrl=http://localhost:9000
+serverVersion=10.1.0.73491
+dashboardUrl=http://localhost:9000/dashboard?id=copilot_regenarate
+ceTaskId=AYkMipgRSlGDnUJgRodp
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYkMipgRSlGDnUJgRodp

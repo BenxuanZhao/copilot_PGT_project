@@ -1,0 +1,6 @@
+projectKey=copilot_gptregenarate
+serverUrl=http://localhost:9000
+serverVersion=10.1.0.73491
+dashboardUrl=http://localhost:9000/dashboard?id=copilot_gptregenarate
+ceTaskId=AYlUO4GiIxnzATYX9_l5
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYlUO4GiIxnzATYX9_l5
