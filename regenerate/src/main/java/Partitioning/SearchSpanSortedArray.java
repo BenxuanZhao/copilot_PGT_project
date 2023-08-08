@@ -14,4 +14,5 @@ public class SearchSpanSortedArray {/* Here is the explanation for the code abov
 //    public int search(int[] nums, int target) {
 //        return search(nums, 0, nums.length - 1, target);
 //    }
+//An error code was generated
 }
