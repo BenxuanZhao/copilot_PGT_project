@@ -8,23 +8,6 @@ running_times_re = [64, 65, 68, 69, 64, 71, 66, 78, 71, 65, 72, 75, 73, 74, 66, 
                     69, 64, 88, 110, 98, 100, 121, 99, 77, 107, 64, 73, 68, 92, 80, 63]
 
 print(len(running_times))
-print(len(running_times_re))
-
-print(np.mean(running_times))
-print(np.mean(running_times_re))
-
-print(np.min(running_times))
-print(np.min(running_times_re))
-
-print(np.max(running_times))
-print(np.max(running_times_re))
-
-print(np.median(running_times))
-print(np.median(running_times_re))
-
-print(np.var(running_times))
-print(np.var(running_times_re))
-
 
 # 创建x轴的数据
 x = range(len(running_times))
