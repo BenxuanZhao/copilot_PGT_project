@@ -14,7 +14,7 @@ frequencies = list(counter.values())
 plt.figure(figsize=(8, 8))
 plt.pie(frequencies, labels=labels, autopct='%1.1f%%', startangle=140)
 plt.axis('equal')  # 使饼状图呈圆形
-plt.title("Pie Chart - Items Greater Than Zero")
+plt.title("Pie Chart - Comparison Of Different Codes")
 
 # 显示图形
 plt.show()

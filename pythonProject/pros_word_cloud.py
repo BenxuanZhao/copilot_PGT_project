@@ -27,5 +27,5 @@ wordcloud = WordCloud(width=800, height=400, background_color='white').generate_
 plt.figure(figsize=(10, 5))
 plt.imshow(wordcloud, interpolation='bilinear')
 plt.axis('off')
-plt.title("Word Cloud - Common Programming Problems")
+plt.title("Word Cloud - Pros Of Explanations")
 plt.show()

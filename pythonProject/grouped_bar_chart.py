@@ -253,5 +253,5 @@ plt.legend(handles=comprehensibility_handles.values(), title='Comprehensibility'
 plt.xticks(np.arange(len(groups)) * group_spacing + within_group_spacing / 2, [group_names[i-1] for i in groups.groups.keys()], rotation=45, ha='right')
 plt.xlabel('Groups')
 plt.ylabel('Counts')
-plt.title('Bar Chart Grouped by Third Column')
+plt.title('Bar Chart Grouped By ADS Types')
 plt.show()
